@@ -95,7 +95,7 @@ if(isset($_POST['submit']));{
 
 
 
-                        <h1 class="index.php">cryptowiseinvest</h1>
+                        <h1 class="index.php">sample_form</h1>
                         <p class="signup-link register">Already have an account? <a href="login.php">Log in</a></p>
                         <?php
                         if(isset($error)){
